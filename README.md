@@ -32,7 +32,7 @@ st.markdown(
 
 ## Demo
 
-[![Demo](https://img.youtube.com/vi/w6-28jcr09Q/0.jpg)](https://youtu.be/w6-28jcr09Q)
+[![Demo](https://raw.githubusercontent.com/Sven-Bo/happy-holidays-streamlit-app/master/demo.gif)
 
 
 ## Author
