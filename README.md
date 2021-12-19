@@ -30,6 +30,11 @@ st.markdown(
 )
 ```
 
+## Run the app
+```
+streamlit run app.py
+```
+
 ## Demo
 
 ![Demo](https://raw.githubusercontent.com/Sven-Bo/happy-holidays-streamlit-app/master/demo.gif)
